@@ -2,4 +2,5 @@ EmbeddedValues.java
 local.properties
 .gradle
 .idea
+app/build
 
