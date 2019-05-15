@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :ca.psiphon:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ca.psiphon.aar/6de5e52d5beafc37b725ed4c6ef5cb76/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ca.psiphon.aar/6de5e52d5beafc37b725ed4c6ef5cb76/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

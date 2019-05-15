@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="banner_desc">bannière des commanditaires ; cliquez pour visiter le site des commanditaires</string>
+  <string name="start_desc">connexion à Psiphon ; cliquez pour vous connecter</string>
+  <string name="message_image_success_desc">icône indiquant un message de réussite</string>
+  <string name="message_image_error_desc">icône indiquant un message d’erreur</string>
+  <string name="message_image_debug_desc">icône indiquant un message de débogage</string>
+  <string name="message_image_warning_desc">icône indiquant un message d’avertissement</string>
+  <string name="exit">Quitter</string>
+  <string name="open_browser">Ouvrir le navigateur</string>
+  <string name="browser_task_label">Navigateur Psiphon</string>
+  <string name="FeedbackActivity.DefaultText">Si vous avez des commentaires spécifiques, des informations complémentaires sur des sites qui ne fonctionnent pas, ou si ce formulaire ne fonctionne pas, veuillez envoyer un courriel à &lt;a href=\"mailto:feedback@psiphon.ca\"&gt;feedback@psiphon.ca&lt;/a&gt;.</string>
+  <string name="FeedbackActivity.Success">Merci pour votre rétroaction</string>
+  <string name="FeedbackActivity.Failure">L’envoi a échoué. Veuillez ressayer.</string>
+  <string name="FeedbackActivity.SubmitFeedbackFailed">Échec d’envoi de votre rétroaction</string>
+  <string name="FeedbackActivity.InvalidURLParameters">Paramètres d’URL invalides dans l’envoi du formulaire de rétroaction</string>
+  <string name="FeedbackActivity.GetHTMLContentFailed">Échec de récupération du contenu de la page de rétroaction</string>
+  <string name="StatusActivity.VpnRevokedTitle">Le RPV Psiphon s’est arrêté</string>
+  <string name="StatusActivity.VpnRevokedMessage">Le RPV de Psiphon a été déconnecté par vous ou par une autre appli. Plusieurs applis de RPV ne peuvent pas fonctionner en même temps. Vérifiez si une autre appli de RPV est installée et en cours d’exécution.</string>
+  <string name="StatusActivity.VpnPromptCancelledTitle">Le RPV Psiphon ne peut pas être démarré</string>
+  <string name="StatusActivity.VpnPromptCancelledMessage">Psiphon ne peut pas démarrer le RPV. Plusieurs applis de RPV ne peuvent pas fonctionner en même temps. Vérifiez si une autre appli de RPV est installée et réglée sur RPV permanent.</string>
+  <string name="StatusActivity.WholeDeviceTunnelPromptTitle">Tunnelliser tout l’appareil ?</string>
+  <string name="StatusActivity.WholeDeviceTunnelPromptMessage">La tunnellisation intégrale est possible pour votre appareil.\n\nAvec ette option, tout le trafic Internet de toutes vos applis, incluant tous les navigateurs, sera tunnellisé par Psiphon.\n\nVous pouvez autrement choisir de ne tunnelliser que le trafic du navigateur Psiphon, toutes les autres applis se connectant directement par votre connexion Internet habituelle.</string>
+  <string name="StatusActivity.WholeDeviceTunnelPositiveButton">Tout l’appareil</string>
+  <string name="StatusActivity.WholeDeviceTunnelNegativeButton">N’utiliser que le navigateur Psiphon</string>
+  <string name="selected_region_currently_not_available">La région sélectionnée n’est pas proposée actuellement, veuillez sélectionner une autre région.</string>
+  <string name="we_care_about_your_privacy_and_data_security_we_keep_this_app_free_by_showing_ads">La protection et la sécurité de vos données nous tiennent à cœur. Nous assurons la gratuité de cette appli en affichant des publicités.</string>
+  <string name="can_we_continue_to_use_your_data_to_tailor_ads_for_you">Pouvons-nous continuer à utiliser vos données pour adapter les publicités pour vous ?</string>
+  <string name="you_can_change_your_choice_anytime">Pour Psiphon Pro, vous pouvez changer votre choix n’importe quand dans les options de l’appli. Notre fournisseur de publicité recueillera des données et utilisera un identifiant unique sur votre appareil pour afficher vos publicités.</string>
+  <string name="learn_more_about_our_ad_providers"><u>En apprendre davantage sur nos fournisseurs de publicité</u></string>
+  <string name="yes_continue_to_see_relevant_ads">Oui, continuer à voir des publicités pertinentes</string>
+  <string name="no_see_ads_that_are_less_relevant">Non, voir des publicités moins pertinentes</string>
+  <string name="pay_for_the_ad_free_version">Passer à la version sans publicité</string>
+  <string name="click_ad_provider_name_to_see_privacy_policy">Cliquez sur le nom du fournisseur de publicité pour visualiser sa politique de confidentialité</string>
+  <string name="ads_consent_preference_category_title">Personnalisation de la publicité</string>
+  <string name="ads_consent_preference_dialog_preference_message">Souhaitez-vous vraiment réinitialiser vos préférences de personnalisation des publicités ?</string>
+  <string name="ads_consent_preference_title">Réinitialiser la préférence de personnalisation des publicités</string>
+  <string name="ads_consent_preference_dialog_title">Réinitialiser</string>
+  <string name="ads_consent_preference_summary">Réinitialisez vos préférences pour permettre aux réseaux publicitaires d’utiliser des témoins ainsi que vos données personnelles</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="banner_desc">sponsor banner; klik om sponsor homepage bezoeken</string>
+  <string name="start_desc">verbinden met Psiphon; Klik om te verbinden</string>
+  <string name="message_image_success_desc">pictogram dat aangeeft een succes bericht</string>
+  <string name="message_image_error_desc">pictogram dat aangeeft een fout bericht</string>
+  <string name="message_image_debug_desc">pictogram dat aangeeft een debug bericht</string>
+  <string name="message_image_warning_desc">pictogram dat aangeeft een waarschuwings bericht</string>
+  <string name="exit">Verlaat</string>
+  <string name="open_browser">Open Browser</string>
+  <string name="browser_task_label">Psiphon Browser</string>
+  <string name="FeedbackActivity.DefaultText">Hebt u specifieke opmerkingen, meer informatie over websites die niet werken, of als dit formulier niet voor je werkt is, stuur een email naar&lt;a href=\"mailto:feedback@psiphon.ca\"&gt;feedback@psiphon.ca&lt;/a&gt;.</string>
+  <string name="FeedbackActivity.Success">Dank u voor het indienen van uw feedback</string>
+  <string name="FeedbackActivity.Failure">Indiening is mislukt. Probeer het opnieuw.</string>
+  <string name="FeedbackActivity.SubmitFeedbackFailed">Mislukt in te dienen feedback</string>
+  <string name="FeedbackActivity.InvalidURLParameters">Ongeldige URL Parameters in feedback formulier bij indienen</string>
+  <string name="FeedbackActivity.GetHTMLContentFailed">Mislukt te krijgen feedback pagina-inhoud</string>
+  <string name="StatusActivity.VpnRevokedTitle">Psiphon VPN is gestopt</string>
+  <string name="StatusActivity.VpnPromptCancelledTitle">Psiphon VPN kan niet starten</string>
+  <string name="StatusActivity.WholeDeviceTunnelPromptTitle">Tunnel het gehele apparaat?</string>
+  <string name="StatusActivity.WholeDeviceTunnelPromptMessage">Het hele apparaat tunnel optie is beschikbaar voor uw device.\n\nMet deze optie al uw internetverkeer voor alle apps met inbegrip van alle browsers zullen worden tunnelverbinding via Psiphon.\n\nAlternatief, kunt u kiezen om te tunnelen alleen de meegeleverde browser Psiphon die laat alle andere apps gaan rechtstreeks via uw standaard Internet-verbinding.</string>
+  <string name="StatusActivity.WholeDeviceTunnelPositiveButton">Tunnel Gehele Apparaat</string>
+  <string name="StatusActivity.WholeDeviceTunnelNegativeButton">Gebruik Alleen Psiphon Browser </string>
+  <string name="selected_region_currently_not_available">Geselecteerde regio is momenteel niet beschikbaar. Selecteer een andere regio.</string>
+  <string name="we_care_about_your_privacy_and_data_security_we_keep_this_app_free_by_showing_ads">Wij geven om uw privacy en gegevensbeveiliging. Wij houden deze app gratis door het tonen van advertenties.</string>
+  <string name="can_we_continue_to_use_your_data_to_tailor_ads_for_you">Kunnen we doorgaan met uw gegevens gebruiken om advertenties op maat voor u?</string>
+  <string name="you_can_change_your_choice_anytime">U kunt uw keuze altijd wijzigen voor Psiphon Pro in de app-opties. Onze advertentie providers zullen gegevens verzamelen en gebruiken een unieke identificatie op uw apparaat om advertenties weer te geven.</string>
+  <string name="learn_more_about_our_ad_providers"><u>Meer informatie over onze advertentie providers</u></string>
+  <string name="yes_continue_to_see_relevant_ads">Ja, blijf relevante advertenties zien</string>
+  <string name="no_see_ads_that_are_less_relevant">Nee, bekijk advertenties die minder relevant zijn</string>
+  <string name="pay_for_the_ad_free_version">Upgrade naar de ad-vrije versie</string>
+  <string name="click_ad_provider_name_to_see_privacy_policy">Klik op de naam van de adverteerder om zijn privacybeleid te bekijken</string>
+  <string name="ads_consent_preference_category_title">Advertentiepersonalisatie</string>
+  <string name="ads_consent_preference_dialog_preference_message">Wilt u echt de voorkeuren van uw advertenties aanpassen?</string>
+  <string name="ads_consent_preference_title">Reset advertenties personalisatie voorkeur</string>
+  <string name="ads_consent_preference_dialog_title">Wis</string>
+  <string name="ads_consent_preference_summary">Reset uw voorkeur om advertentienetwerken om cookies te gebruiken en uw persoonlijke gegevens</string>
+</resources>

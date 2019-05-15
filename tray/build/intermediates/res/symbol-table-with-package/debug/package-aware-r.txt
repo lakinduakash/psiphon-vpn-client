@@ -1,0 +1,2 @@
+net.grandcentrix.tray
+int string tray__authority 0x7f150001
